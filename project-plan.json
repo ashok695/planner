@@ -2,32 +2,31 @@
   "tasks": {
     "rows": [
       {
-        "id": "698f00cebc1cbd145b01fa1c",
+        "id": "6992e8da595439fd1035e199",
+        "name": "Website Relaunch",
+        "startDate": "2026-02-16T00:00:00.000Z",
+        "endDate": "2026-02-20T00:00:00.000Z",
+        "duration": 4,
+        "percentDone": 82.85714285714286,
+        "expanded": true
+      },
+      {
+        "id": "6992e91c595439fd1035e19a",
         "name": "Discovery and scope",
+        "parentId": "6992e8da595439fd1035e199",
         "startDate": "2026-02-16T00:00:00.000Z",
-        "endDate": "2026-02-26T00:00:00.000Z",
-        "duration": 10,
-        "percentDone": 0,
-        "expanded": true
+        "endDate": "2026-02-19T00:00:00.000Z",
+        "duration": 3,
+        "percentDone": 100
       },
       {
-        "id": "698f014ebc1cbd145b01fa1d",
+        "id": "6992e99d595439fd1035e19b",
         "name": "Wireframes",
-        "parentId": "698f00cebc1cbd145b01fa1c",
+        "parentId": "6992e8da595439fd1035e199",
         "startDate": "2026-02-16T00:00:00.000Z",
-        "endDate": "2026-02-26T00:00:00.000Z",
-        "duration": 10,
-        "percentDone": 0,
-        "expanded": true
-      },
-      {
-        "id": "698f0548c13db1baaae22686",
-        "name": "New task 1 okokok",
-        "parentId": "698f014ebc1cbd145b01fa1d",
-        "startDate": "2026-02-16T00:00:00.000Z",
-        "endDate": "2026-02-26T00:00:00.000Z",
-        "duration": 10,
-        "percentDone": 0
+        "endDate": "2026-02-20T00:00:00.000Z",
+        "duration": 4,
+        "percentDone": 70
       }
     ]
   },
