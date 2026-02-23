@@ -7,7 +7,7 @@
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-03-01T00:00:00.000Z",
         "duration": 13,
-        "percentDone": 0,
+        "percentDone": 60.89473684210526,
         "expanded": true
       },
       {
@@ -17,7 +17,7 @@
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-03-01T00:00:00.000Z",
         "duration": 13,
-        "percentDone": 0,
+        "percentDone": 60.89473684210526,
         "expanded": true
       },
       {
@@ -27,7 +27,7 @@
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-03-01T00:00:00.000Z",
         "duration": 13,
-        "percentDone": 0,
+        "percentDone": 60.89473684210526,
         "expanded": true
       },
       {
@@ -37,7 +37,7 @@
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-03-01T00:00:00.000Z",
         "duration": 13,
-        "percentDone": 0
+        "percentDone": 89
       },
       {
         "id": "699c1067b99dd1689943ac7f",
