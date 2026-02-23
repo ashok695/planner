@@ -13,20 +13,20 @@
       {
         "id": "6992e91c595439fd1035e19a",
         "name": "Discovery and scope",
-        "parentId": "6992e8da595439fd1035e199",
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-02-19T00:00:00.000Z",
         "duration": 3,
-        "percentDone": 100
+        "percentDone": 100,
+        "parentId": "6992e8da595439fd1035e199"
       },
       {
         "id": "6992e99d595439fd1035e19b",
-        "name": "Wireframes",
-        "parentId": "6992e8da595439fd1035e199",
+        "name": "Wireframes okokokok",
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-02-20T00:00:00.000Z",
         "duration": 4,
-        "percentDone": 70
+        "percentDone": 70,
+        "parentId": "6992e8da595439fd1035e199"
       }
     ]
   },
