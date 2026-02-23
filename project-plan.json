@@ -27,7 +27,8 @@
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-03-01T00:00:00.000Z",
         "duration": 13,
-        "percentDone": 0
+        "percentDone": 0,
+        "expanded": true
       },
       {
         "id": "699c1067b99dd1689943ac7d",
@@ -58,7 +59,7 @@
       },
       {
         "id": "699c1067b99dd1689943ac83",
-        "name": "okay",
+        "name": "okay main added",
         "parentId": "6992e99d595439fd1035e19b",
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-02-20T00:00:00.000Z",
