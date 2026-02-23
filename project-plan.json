@@ -5,9 +5,9 @@
         "id": "6992e8da595439fd1035e199",
         "name": "Website Relaunch",
         "startDate": "2026-02-16T00:00:00.000Z",
-        "endDate": "2026-02-20T00:00:00.000Z",
-        "duration": 4,
-        "percentDone": 82.85714285714286,
+        "endDate": "2026-03-01T00:00:00.000Z",
+        "duration": 13,
+        "percentDone": 0,
         "expanded": true
       },
       {
@@ -15,18 +15,55 @@
         "name": "Discovery and scope",
         "parentId": "6992e8da595439fd1035e199",
         "startDate": "2026-02-16T00:00:00.000Z",
-        "endDate": "2026-02-19T00:00:00.000Z",
-        "duration": 3,
-        "percentDone": 100
+        "endDate": "2026-03-01T00:00:00.000Z",
+        "duration": 13,
+        "percentDone": 0,
+        "expanded": true
       },
       {
         "id": "6992e99d595439fd1035e19b",
         "name": "Wireframes okay",
-        "parentId": "6992e8da595439fd1035e199",
+        "parentId": "6992e91c595439fd1035e19a",
+        "startDate": "2026-02-16T00:00:00.000Z",
+        "endDate": "2026-03-01T00:00:00.000Z",
+        "duration": 13,
+        "percentDone": 0
+      },
+      {
+        "id": "699c1067b99dd1689943ac7d",
+        "name": "New task",
+        "parentId": "6992e99d595439fd1035e19b",
+        "startDate": "2026-02-16T00:00:00.000Z",
+        "endDate": "2026-03-01T00:00:00.000Z",
+        "duration": 13,
+        "percentDone": 0
+      },
+      {
+        "id": "699c1067b99dd1689943ac7f",
+        "name": "New task",
+        "parentId": "6992e99d595439fd1035e19b",
+        "startDate": "2026-02-16T00:00:00.000Z",
+        "endDate": "2026-02-17T00:00:00.000Z",
+        "duration": 1,
+        "percentDone": 0
+      },
+      {
+        "id": "699c1067b99dd1689943ac81",
+        "name": "ok",
+        "parentId": "6992e99d595439fd1035e19b",
+        "startDate": "2026-02-16T00:00:00.000Z",
+        "endDate": "2026-02-17T00:00:00.000Z",
+        "duration": 1,
+        "percentDone": 0
+      },
+      {
+        "id": "699c1067b99dd1689943ac83",
+        "name": "okay",
+        "parentId": "6992e99d595439fd1035e19b",
         "startDate": "2026-02-16T00:00:00.000Z",
         "endDate": "2026-02-20T00:00:00.000Z",
         "duration": 4,
-        "percentDone": 70
+        "percentDone": 0
       }
     ]
   },
